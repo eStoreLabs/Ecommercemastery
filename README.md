@@ -1,2 +1,1 @@
-# estoremastery_merger
-Page about the EstoreMastery merger
+[File](./plan_polaczenia_i_zalaczniki.pdf)
